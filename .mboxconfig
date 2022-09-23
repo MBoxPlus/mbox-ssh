@@ -1,0 +1,10 @@
+{
+  "cocoapods" : {
+    "podfiles" : {
+      "mbox-ssh" : ".\/Native\/Podfile.rb"
+    },
+    "podspecs" : [
+      ".\/Native\/MBoxSSH.podspec"
+    ]
+  }
+}

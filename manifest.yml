@@ -1,0 +1,9 @@
+AUTHORS:
+- "詹迟晶 (james.zhan@bytedance.com)"
+CLI: true
+MODULES: []
+NAME: MBoxSSH
+VERSION: '1.0'
+DEPENDENCIES:
+- MBoxCore
+USER_VISIBLE: false
